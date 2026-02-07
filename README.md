@@ -37,9 +37,6 @@ npx prisma db push
 npm run dev
 ```
 
-### 4. Open in Browser
-
-Visit: http://localhost:3000
 
 ## User Flows
 
